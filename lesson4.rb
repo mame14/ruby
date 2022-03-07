@@ -1,0 +1,2 @@
+name = "コタロー"
+puts name
